@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cmdBlack
+- 👋 Hi, I’m Kaizer Macni - @cmdBlack
 - 👀 I’m interested in anything related to space and technology
 - 🌱 I’m currently learning various programming languages
 - 💞️ I’m looking to collaborate on project that would improve my skills
